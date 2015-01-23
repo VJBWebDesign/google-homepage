@@ -1,2 +1,2 @@
 # google-homepage
-My first project for the Odin Project.
+This will be my first change to my google-homepage repository using git.
