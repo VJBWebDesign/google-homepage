@@ -1,0 +1,80 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.logo {
+	position: absolute;
+	top: 200px;
+	left: 500px;
+}
+.search {
+	position: absolute;
+	top: 290px;
+	left: 375px;
+}
+.search p {
+	width: 550px;
+	text-align: right;
+	color: #aaa;
+	border: 1px solid #ccc;
+	padding-right: 5px;
+}
+.button {
+	position: absolute;
+	top: 350px;
+	left: 530px;
+	margin-right: 10px
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+li {
+	float: right;
+}
+a {
+	display: block;
+	width: 65px;
+	text-align: center;
+	text-decoration: none;
+	color: #000;
+	font-size: .75em;
+	padding-right: 15px;
+	margin: 10px;
+
+}
+footer {
+	bottom: 0;
+	height: 40px;
+	width: 99.8%;
+	position: absolute;
+	background-color: #ccc;
+	border: 1px solid #aaa;
+}
+.ft-1 {
+	height: 40px;
+	width: 300px;
+	float: left;
+}
+.ft-2 {
+	height: 40px;
+	width: 300px;
+	float: right;
+}
+.left a {
+	display: inline-block;
+	float: left;
+	padding-right: 15px;
+	margin: 10px;
+}
+.right a {
+	display: inline-block;
+	float: right;
+	padding-right: 15px;
+	margin: 10px;
+}
+
+
+
